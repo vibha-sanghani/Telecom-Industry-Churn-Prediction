@@ -1,2 +1,2 @@
 # Telecom-Industry-Churn-Prediction
-Supervised Learning - Classification -Logistic Regression
+Supervised Learning - Classification - Logistic Regression

@@ -1,10 +1,7 @@
 # 📡 Telecom Churn Prediction (Supervised Learning - Classification - Logistic Regression)
 
-## 📌 Project Overview
+## 📌 Overview
 In the dynamic landscape of the telecom industry, customer churn, or the loss of subscribers, is a pressing concern. The **Telecom Churn Prediction** project leverages **logistic regression**, a machine learning technique, to address this challenge. By analyzing historical customer data and developing a predictive model, this project empowers telecom companies to proactively identify and retain at-risk customers, ultimately improving service quality and business sustainability.
-
-## 🎯 Problem Statement
-The objective of this project is to develop a predictive model for churn prediction in the telecom industry. Churn prediction is crucial for telecom companies to retain customers and maintain profitability. By leveraging **logistic regression**, we analyze historical customer data and predict the likelihood of a customer churning. This model assists telecom companies in taking proactive measures to retain at-risk customers and enhance their services, ultimately reducing churn rates and increasing customer satisfaction.
 
 ## 🏆 Key Objectives
 - Build a predictive model using **logistic regression**.
